@@ -10,5 +10,5 @@ I'm styding engineering physics at Chalmers in Sweden. Programming is quite ok, 
 
 - Discord: [Chillin#0536](https://youtu.be/dQw4w9WgXcQ)
 - Telegram: [C4illin](https://t.me/C4illin)
-- Website: [emrik.ga](https://emrik.ga/)
+- Website: [öö.cf](https://öö.cf/)
 - Email: [e@mrik.ga](mailto:e@mrik.ga)
