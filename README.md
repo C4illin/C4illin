@@ -1,4 +1,4 @@
-# Hallå! 👋
+# Hallå! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=C4illin&theme=nord&show_icons=true" />
