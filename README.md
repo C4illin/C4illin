@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=C4illin&theme=nord&show_icons=true" />
 </a>
 
-I'm styding engineering physics at Chalmers in Sweden. Programming is quite ok, I guess.
+I'm styding engineering physics at Chalmers in Sweden.
 
 ## 📫 Reach me
 
