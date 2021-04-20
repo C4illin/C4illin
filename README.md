@@ -6,7 +6,7 @@
 
 I'm studying engineering physics at Chalmers in Sweden.
 
-## 📫 Reach me
+## 📫 Contact me
 
 - Discord: [Chillin#0536](https://youtu.be/dQw4w9WgXcQ)
 - Telegram: [C4illin](https://t.me/C4illin)
