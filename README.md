@@ -10,5 +10,5 @@ I'm studying engineering physics at Chalmers in Sweden.
 
 - Discord: [Chillin#0536](https://youtu.be/dQw4w9WgXcQ)
 - Telegram: [C4illin](https://t.me/C4illin)
-- Website: [e.mrik.ga](https://e.mrik.ga/)
-- Email: [e@mrik.ga](mailto:e@mrik.ga)
+- Website: [emrik.org](https://emrik.org/)
+- Email: [e@emrik.org](mailto:e@emrik.org)
