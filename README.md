@@ -9,6 +9,6 @@ I'm studying engineering physics at Chalmers in Sweden.
 ## 📫 Contact me
 
 - Discord: [Chillin#0536](https://youtu.be/dQw4w9WgXcQ)
-- Telegram: [C4illin](https://t.me/C4illin)
+- Telegram: [emrik](https://t.me/emr1k)
 - Website: [emrik.org](https://emrik.org/)
 - Email: [e@emrik.org](mailto:e@emrik.org)
