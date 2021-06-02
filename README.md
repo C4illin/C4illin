@@ -12,3 +12,8 @@ I'm studying engineering physics at Chalmers in Sweden.
 - Telegram: [emr1k](https://t.me/emr1k)
 - Website: [emrik.org](https://emrik.org/)
 - Email: [e@emrik.org](mailto:e@emrik.org)
+
+
+<a href="hhttps://github.com/C4illin?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4illin&theme=nord&show_icons=true" />
+</a>
