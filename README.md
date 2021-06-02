@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=C4illin&theme=nord&show_icons=true" />
 </a>
 
-I'm studying engineering physics at Chalmers in Sweden.
+I'm studying engineering physics at Chalmers in Sweden. I like javascript :)
 
 ## 📫 Contact me
 
