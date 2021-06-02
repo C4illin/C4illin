@@ -15,5 +15,5 @@ I'm studying engineering physics at Chalmers in Sweden.
 
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4illin&theme=nord&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4illin&theme=nord&show_icons=true" />
 </a>
