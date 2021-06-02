@@ -12,10 +12,13 @@ I'm studying engineering physics at Chalmers in Sweden. I like javascript :)
 ## 📫 Contact me
 
 - Discord: [Chillin#0536](https://youtu.be/dQw4w9WgXcQ)
-- Telegram: [emr1k](https://t.me/emr1k)
-- Website: [emrik.org](https://emrik.org/)
 - Email: [e@emrik.org](mailto:e@emrik.org)
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=C4illin&theme=nord&show_icons=true" />
 </a>
+
+<!---
+- Telegram: [emr1k](https://t.me/emr1k)
+- Website: [emrik.org](https://emrik.org/)
+-->
