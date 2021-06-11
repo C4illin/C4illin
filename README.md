@@ -11,7 +11,7 @@ I'm studying engineering physics at Chalmers in Sweden. I like javascript :)
 
 ## 📫 Contact me
 
-- Discord: [Chillin#0536](https://youtu.be/dQw4w9WgXcQ)
+- Discord: [Hoods#0001](https://youtu.be/dQw4w9WgXcQ)
 - Email: [e@emrik.org](mailto:e@emrik.org)
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
