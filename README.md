@@ -22,3 +22,5 @@ I study engineering physics at Chalmers in Sweden. I like javascript :)
 - Telegram: [emr1k](https://t.me/emr1k)
 - Website: [emrik.org](https://emrik.org/)
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=20753603)
