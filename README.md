@@ -15,7 +15,7 @@ I study engineering physics at Chalmers in Sweden. I like javascript :)
 - Email: [e@emrik.org](mailto:e@emrik.org)
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
-  <img align="left" width="500" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=C4illin&theme=github_dark&show_icons=true&count_private=true&border_color=21262d&bg_color=0d1117&icon_color=58a6ff&title_color=c9d1d9&text_color=c9d1d9&hide_title=true" />
+  <img align="left" width="482" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=C4illin&theme=github_dark&show_icons=true&count_private=true&border_color=21262d&bg_color=0d1117&icon_color=58a6ff&title_color=c9d1d9&text_color=c9d1d9&hide_title=true" />
 </a>
 
 <!---
