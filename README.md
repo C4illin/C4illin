@@ -1,6 +1,6 @@
 
 
-# Hallå! <img src="https://raw.githubusercontent.com/C4illin/C4illin/main/wave.gif" width="30px">
+# Hallå! <img src="https://raw.githubusercontent.com/C4illin/C4illin/main/wave.gif" width="30px" style="width:30px">
 
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
