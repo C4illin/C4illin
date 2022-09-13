@@ -1,6 +1,6 @@
 
 
-# Hallå! <img src="https://raw.githubusercontent.com/C4illin/C4illin/main/wave.gif" width="30px" height="30px"><img src="https://raw.githubusercontent.com/C4illin/C4illin/main/dab.gif" width="30px" height="30px">
+# Hallå! <img src="https://raw.githubusercontent.com/C4illin/C4illin/main/wave.gif" width="30px" height="30px">
 
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
@@ -25,6 +25,7 @@ I study engineering physics at Chalmers in Sweden. I like javascript :)
 <!---
 - Telegram: [emr1k](https://t.me/emr1k)
 - Website: [emrik.org](https://emrik.org/)
+<img src="https://raw.githubusercontent.com/C4illin/C4illin/main/dab.gif" width="30px" height="30px">
 -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20753603)
