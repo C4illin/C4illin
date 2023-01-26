@@ -14,7 +14,7 @@ I study engineering physics at Chalmers in Sweden. I like javascript :)
 ## 📫 Contact me
 
 - Discord: [Emrik#2606](https://youtu.be/dQw4w9WgXcQ)
-- Email: [e@emrik.org](mailto:e@emrik.org)
+- Email: [hi@emrik.org](mailto:hi@emrik.org)
 - LinkedIn: [in/emrik](https://www.linkedin.com/in/emrik/)
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
