@@ -13,7 +13,7 @@ I study engineering physics at Chalmers in Sweden. I like javascript :)
 
 ## 📫 Contact me
 
-- Discord: [Emrik#2606]()
+- Discord: [Emrik#2606]
 - Email: [hi@emrik.org](mailto:hi@emrik.org)
 - LinkedIn: [in/emrik](https://www.linkedin.com/in/emrik/)
 
