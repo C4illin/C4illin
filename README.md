@@ -9,7 +9,7 @@
   <img align="right" width="35%" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4illin&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=c9d1d9&langs_count=7&hide_title=true"/>
 </a>
 
-I study engineering physics at Chalmers in Sweden. I like javascript :)
+I study complex adaptive systems at Chalmers in Sweden. I like javascript :)
 
 ## 📫 Contact me
 
