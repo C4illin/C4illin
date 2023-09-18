@@ -13,7 +13,7 @@ I study complex adaptive systems at Chalmers in Sweden. I like javascript :)
 
 ## 📫 Contact me
 
-- Discord: emrik_
+- Discord: [emrik_](https://discord.com/users/164283691802165250)
 - Email: [hi@emrik.org](mailto:hi@emrik.org)
 - LinkedIn: [in/emrik](https://www.linkedin.com/in/emrik/)
 
