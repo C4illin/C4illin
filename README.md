@@ -1,7 +1,9 @@
 
 
-# Hallå! <img src="https://raw.githubusercontent.com/C4illin/C4illin/main/wave.gif" width="30px" height="30px">
-
+# Hallå! 
+<!---
+<img src="https://raw.githubusercontent.com/C4illin/C4illin/main/wave.gif" width="30px" height="30px">
+-->
 
 <a href="hhttps://github.com/C4illin?tab=repositories">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=C4illin&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=c9d1d9&langs_count=7&hide_title=true">
