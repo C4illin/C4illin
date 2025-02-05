@@ -13,7 +13,7 @@
   </picture>
 </a>
 
-I study a M.Sc. in complex adaptive systems at Chalmers in Sweden will be done June 2025. I like javascript :)
+I study a M.Sc. in complex adaptive systems at Chalmers in Sweden and will be done June 2025. Looking for work!
 
 ## 📫 Contact me
 
