@@ -17,7 +17,7 @@ I study a M.Sc. in complex adaptive systems at Chalmers in Sweden will be done J
 
 ## 📫 Contact me
 
-- Discord: [emrik_](https://discord.com/users/164283691802165250)
+- Discord: emrik_
 - Email: [hi@emrik.org](mailto:hi@emrik.org)
 - LinkedIn: [in/emrik](https://www.linkedin.com/in/emrik/)
 
