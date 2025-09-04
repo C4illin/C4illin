@@ -13,7 +13,7 @@
   </picture>
 </a>
 
-I study a M.Sc. in complex adaptive systems at Chalmers in Sweden and will be done June 2025.
+B.Sc. in engineering physics and a M.Sc. in complex adaptive systems from Chalmers in Sweden.
 
 ## 📫 Contact me
 
